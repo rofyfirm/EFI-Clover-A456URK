@@ -11,4 +11,4 @@
  Sound          : Conexant CX 8050\
  Storage        : SSD 512 GB + HDD 1TB (both are SATA)\
  Ethernet       : Realtek RTL 8168\
- WiFi + BT      : Atheros A9565\
+ WiFi + BT      : Atheros A9565
