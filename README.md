@@ -3,7 +3,7 @@
 
  For use it, just simply put the EFI folder to your EFI partition. for activating the Wi-Fi with AR9565 module, you could put the kexts from /L/E to your /Library/Extensions.
 
- To fix the microphone, run the install.command file that located in Jack_Fix directory
+ To fix the microphone, run the install.command file that located in Jack_Fix directory. Then, reboot your machine to take the effect.
 
  My system properties are:\
  CPU : Intel i5-7200U Kabylake\
@@ -19,5 +19,5 @@
 Everything is work except the Nvidia Graphics Card, because Nvidia Optimus is no longer supported since Mojave.
 
 Thanks to:\
-MaLd0n from this topic https://olarila.com/forum/viewtopic.php?f=19&t=1131/
+MaLd0n from this topic https://olarila.com/forum/viewtopic.php?f=19&t=1131 /
 Mirone from this topic https://olarila.com/forum/viewtopic.php?f=28&t=7782
