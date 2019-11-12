@@ -14,7 +14,9 @@
  Storage : SSD 512 GB + HDD 1TB (both are SATA)\
  Ethernet : Realtek RTL 8168\
  WiFi + BT : Atheros A9565\
- Touchpad : ELAN 1200
+ Touchpad : ELAN 1200\
+ Boot Mode : EFI with Clover r5098\
+ Hacintosh : 10.15.1
 
 Everything is work except the Nvidia Graphics Card, because Nvidia Optimus is no longer supported since Mojave.
 
