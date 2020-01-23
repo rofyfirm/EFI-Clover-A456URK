@@ -1240,7 +1240,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02701301CDHWVP1M</string>
+		<string>C02941701J9HWVPUE</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -1283,7 +1283,7 @@
 					<key>Frequency</key>
 					<integer>2133</integer>
 					<key>Size</key>
-					<integer>8192</integer>
+					<integer>4096</integer>
 					<key>Slot</key>
 					<integer>2</integer>
 					<key>Type</key>
@@ -1300,7 +1300,7 @@
 		<key>ProductName</key>
 		<string>MacBookPro14,1</string>
 		<key>SerialNumber</key>
-		<string>C02T26YLHV29</string>
+		<string>C02ZJ0ZSHV29</string>
 		<key>SmUUID</key>
 		<string>4E0678FE-5755-47F4-B260-1639A3818BE4</string>
 		<key>Version</key>
