@@ -1,7 +1,5 @@
 # EFI-Clover-A456URK
- This is an EFI Clover for Asus A456URK which running Hackintosh 10.14 or 10.15. It has DSDT patch, Clover config, kexts in /E/C/K and /L/E.
-
- For use it, just simply put the EFI folder to your EFI partition. for activating the Wi-Fi with AR9565 module, you could put the kexts from /L/E to your /Library/Extensions.
+ This is an EFI Clover for Asus A456URK which running Hackintosh 10.14 or 10.15. It has DSDT patch, Clover config, kexts in /E/C/K. For use those kexts, just simply put the EFI folder to your EFI partition.
 
  To fix the microphone, run the install.command file that located in Jack_Fix directory. Then, reboot your machine to take the effect.
 
@@ -15,8 +13,8 @@
  Ethernet : Realtek RTL 8168\
  WiFi + BT : Atheros A9565\
  Touchpad : ELAN 1200\
- Boot Mode : EFI with Clover r5098\
- Hacintosh : 10.15.1
+ Boot Mode : EFI with Clover r5118\
+ Hackintosh : 10.15.4
 
 Everything is work except the Nvidia Graphics Card, because Nvidia Optimus is no longer supported since Mojave.
 

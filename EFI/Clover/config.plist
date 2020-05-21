@@ -792,7 +792,7 @@
 		<key>ShowOptimus</key>
 		<false/>
 		<key>Theme</key>
-		<string>lover</string>
+		<string>random</string>
 		<key>Timezone</key>
 		<integer>3</integer>
 	</dict>

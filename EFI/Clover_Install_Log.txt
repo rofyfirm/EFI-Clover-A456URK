@@ -1,6 +1,6 @@
 
-Clover EFI installer log - Sun Nov 10 17:03:02 WIB 2019
-Installer version: v2.5k r5098 EFI bootloader
+Clover EFI installer log - Thu May 21 18:35:25 WIB 2020
+Installer version: r5118 (commit: 6529f815d) EFI bootloader
 ======================================================
 /dev/disk0 (internal, physical):
    #:                       TYPE NAME                    SIZE       IDENTIFIER
@@ -12,8 +12,8 @@ Installer version: v2.5k r5098 EFI bootloader
    #:                       TYPE NAME                    SIZE       IDENTIFIER
    0:      APFS Container Scheme -                      +511.9 GB   disk1
                                  Physical Store disk0s2
-   1:                APFS Volume MAC SSD - Data          3.3 GB     disk1s1
-   2:                APFS Volume Preboot                 82.3 MB    disk1s2
+   1:                APFS Volume MAC SSD - Data          159.9 GB   disk1s1
+   2:                APFS Volume Preboot                 154.8 MB   disk1s2
    3:                APFS Volume Recovery                528.5 MB   disk1s3
    4:                APFS Volume VM                      1.1 MB     disk1s4
    5:                APFS Volume MAC SSD                 10.7 GB    disk1s5
@@ -34,15 +34,18 @@ Target volume /Volumes/MAC SSD on disk1 is APFS on physical store disk0s2
 ======================================================
 Backing up EFI files
 
-Backing up stage2 file /Volumes/MAC SSD/EFIROOTDIR/boot  to /Volumes/MAC SSD/EFI-Backups/r5098/2019-11-10-17h03/boot
-Backing up /Volumes/MAC SSD/EFIROOTDIR/EFI folder to /Volumes/MAC SSD/EFI-Backups/r5098/2019-11-10-17h03/EFI
+Backing up stage2 file /Volumes/MAC SSD/EFIROOTDIR/boot  to /Volumes/MAC SSD/EFI-Backups/r5098/2020-05-21-18h35/boot
+Backing up /Volumes/MAC SSD/EFIROOTDIR/EFI folder to /Volumes/MAC SSD/EFI-Backups/r5098/2020-05-21-18h35/EFI
 ======================================================
 Installing BootSectors/BootLoader
 
 Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /
 Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /
 Stage 2 - Written boot6 (x64) to /Volumes/EFI/boot
+Removing UEFI/OsxAptioFix3Drv.efi because AptioMemoryFix.efi is installed
 
+Theme 'lover' (defined in config.plist) not found !
+Using default theme 'random'
 ======================================================
 =========== Clover EFI Installation Finish ===========
 ======================================================
